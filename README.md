@@ -1,3 +1,7 @@
-# Nextjs Sidebar
+# ULTIMATE NEXTJS TEMPLATE
 
-Context => Sidebar.
+📦 Nextjs 14
+🚀 Typescript
+💈 Tailwindcss
+💅 Sass
+🔥 Eslint (@stylistic)

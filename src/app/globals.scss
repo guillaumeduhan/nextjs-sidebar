@@ -3,12 +3,5 @@
 @tailwind utilities;
 
 @layer base {
-  .sidebar {
-    &--open {
-      @apply opacity-100 min-w-[300px] max-w-[300px] visible translate-x-[0px] z-50;
-    }
-    &--closed {
-      @apply opacity-0 min-w-[0px] max-w-[0px] invisible translate-x-[0px] -z-50;
-    }
-  }
+
 }
